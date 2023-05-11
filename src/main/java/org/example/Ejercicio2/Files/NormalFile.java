@@ -1,6 +1,8 @@
-package org.example.Ejercicio2;
+package org.example.Ejercicio2.Files;
 
-class NormalFile extends File {
+import org.example.Ejercicio2.Files.File;
+
+public class NormalFile extends File {
     public NormalFile(String name, int size) {
         super(name, size);
     }

@@ -1,4 +1,6 @@
-package org.example.Ejercicio2;
+package org.example.Ejercicio2.Files;
+
+import org.example.Ejercicio2.Components.FileComponent;
 
 public abstract class File implements FileComponent {
     protected String name;

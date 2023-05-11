@@ -1,5 +1,9 @@
 package org.example.Ejercicio2;
 
+import org.example.Ejercicio2.Factories.FileComponentFactory;
+import org.example.Ejercicio2.Components.DirectoryComponent;
+import org.example.Ejercicio2.Components.FileComponent;
+
 public class Main {
     public static void main(String[] args) {
         FileComponentFactory factory = new FileComponentFactory();

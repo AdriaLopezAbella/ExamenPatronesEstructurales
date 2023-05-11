@@ -1,4 +1,7 @@
-package org.example.Ejercicio2;
+package org.example.Ejercicio2.Directories;
+
+import org.example.Ejercicio2.Components.DirectoryComponent;
+import org.example.Ejercicio2.Components.FileComponent;
 
 import java.util.ArrayList;
 import java.util.List;

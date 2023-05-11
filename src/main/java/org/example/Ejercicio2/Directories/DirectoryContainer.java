@@ -1,6 +1,9 @@
-package org.example.Ejercicio2;
+package org.example.Ejercicio2.Directories;
 
-class DirectoryContainer extends Directory {
+import org.example.Ejercicio2.Components.FileComponent;
+import org.example.Ejercicio2.Directories.Directory;
+
+public class DirectoryContainer extends Directory {
     public DirectoryContainer(String name) {
         super(name);
     }

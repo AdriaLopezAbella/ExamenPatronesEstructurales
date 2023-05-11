@@ -1,4 +1,4 @@
-package org.example.Ejercicio2;
+package org.example.Ejercicio2.Components;
 
 public interface FileComponent {
     int getSize();

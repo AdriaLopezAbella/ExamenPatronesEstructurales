@@ -1,6 +1,9 @@
-package org.example.Ejercicio2;
+package org.example.Ejercicio2.Files;
 
-class LinkFile extends File {
+import org.example.Ejercicio2.Components.FileComponent;
+import org.example.Ejercicio2.Files.File;
+
+public class LinkFile extends File {
     private FileComponent linkedFile;
 
     public LinkFile(String name, FileComponent linkedFile) {
